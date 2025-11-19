@@ -19,15 +19,6 @@ body {
 .nav a {
   color: white;
 }
-.nav a:hover {
-  color: rgb(192, 191, 191);
-}
-.nav.scrolled a {
-  color: rgb(155, 49, 255);
-}
-.nav.scrolled a:hover {
-  color: rgb(208, 157, 255);
-}
 .buttonToggle {
   display: none;
 }
