@@ -1,3 +1,8 @@
+.profile {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 .profileimage {
   width: 200px;
 }
